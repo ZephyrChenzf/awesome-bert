@@ -131,7 +131,13 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 6. [GaoPeng97/transformer-xl-chinese](https://github.com/GaoPeng97/transformer-xl-chinese), transformer xl在中文文本生成上的尝试。（transformer xl for text generation of chinese）, 
 ![](https://img.shields.io/github/stars/GaoPeng97/transformer-xl-chinese.svg)
- 
+
+7. [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE),  An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools)  BERT 的中文改进版 ERNIE, 
+![](https://img.shields.io/github/stars/PaddlePaddle/ERNIE.svg)
+
+8. [pytorch/fairseq](https://github.com/pytorch/fairseq),  Facebook AI Research Sequence-to-Sequence Toolkit written in Python. RoBERTa: A Robustly Optimized BERT Pretraining Approach, 
+![](https://img.shields.io/github/stars/pytorch/fairseq.svg)
+
 
 
 ## other resources for BERT: 
@@ -243,6 +249,14 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 2. [xmxoxo/BERT-train2deploy](https://github.com/xmxoxo/BERT-train2deploy), Bert Model training and deploy, BERT模型从训练到部署, 
 ![](https://img.shields.io/github/stars/xmxoxo/BERT-train2deploy.svg)
+
+
+3. [https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow/LanguageModeling/BERT](https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow/LanguageModeling/BERT), BERT For TensorFlow, This repository provides a script and recipe to train BERT to achieve state of the art accuracy, and is tested and maintained by NVIDIA.
+![](https://img.shields.io/github/stars/NVIDIA/DeepLearningExamples.svg)
+
+
+
+
 
 ## BERT QA & RC task:
 
